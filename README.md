@@ -5,9 +5,9 @@ Este repositório armazena as questões resolvidas . As questões aqui serviram 
 
 <h2> Equipe </h2>
 Integrantes: <br>
-<a title = "Você será direcionado ao perfil nessa mesma aba" href = "https://github.com//SrChanax" >Túllyo Honorio Araujo da Silva</a> <br>
-<a title = "Você será direcionado ao perfil nessa mesma aba" href = "https://github.com//PRoberto23">Matheus Willian Nunes Maciel</a><br>
-P3 do do Curso Técnico Integrado em Informática, no semestre 2022.2 <br>
+Túllyo Honorio Araujo da Silva <br>
+Matheus Willian Nunes Maciel <br>
+</p>P3 do do Curso Técnico Integrado em Informática, no semestre 2022.2 <br>
 IFCE Campus Fortaleza.<br>
 
 <h3>Questões</h3>
